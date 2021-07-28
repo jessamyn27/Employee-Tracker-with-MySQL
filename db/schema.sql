@@ -1,0 +1,9 @@
+-- drop db
+-- create db
+-- use db
+-- create emp - id / first_name / last_name / role_id / manager_id
+-- create role - id / title / salaray / department_id 
+-- create dept - id / name
+-- join emp with dept
+-- join emp with role 
+-- 

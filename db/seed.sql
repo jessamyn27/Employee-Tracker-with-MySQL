@@ -1,0 +1,6 @@
+-- insert into emp - 
+    -- john doe -- mike chan -- ashley rodriquez -- kevin tupik -- kunal singh -- malia brown -- sarah lourd -- tom allen
+-- insert into role - 
+    -- sales lead -- salesperson -- lead engineer -- software engineer -- account manager -- accountant -- legal team lead - lawyer
+-- insert into dept
+    -- engineering -- finance -- legal -- sales

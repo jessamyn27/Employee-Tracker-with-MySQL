@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.2.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker-with-mysql",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessamyn27/Employee-Tracker-with-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessamyn27/Employee-Tracker-with-MySQL/issues"
+  },
+  "homepage": "https://github.com/jessamyn27/Employee-Tracker-with-MySQL#readme"
+}
